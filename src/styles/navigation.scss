@@ -1,0 +1,13 @@
+ul.navigation {
+  list-style-type: none;
+  background-color: white;
+  padding: 0;
+  margin-bottom: 24px;
+
+  li {
+    display: inline-block;
+    width: 25%;
+    text-align: center;
+    line-height: 3;
+  }
+}
